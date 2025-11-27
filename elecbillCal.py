@@ -1,6 +1,6 @@
 import sys
 if len(sys.argv) == 2:
-  unit = sys.argv[1]
+  unit = float(sys.argv[1])
 else:
   unit = 120
 
