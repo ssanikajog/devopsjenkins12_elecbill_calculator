@@ -1,0 +1,2 @@
+# devopsJenkins12_ElecBill_Calculator
+calculates the electricity bill
